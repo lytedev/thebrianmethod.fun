@@ -5,7 +5,7 @@
 ## Developing
 
 The simplest way to get up and running is to use any basic web server.
-I recommend Python's built-in http server module.
+I recommend Python's built-in HTTP server module.
 
 * Install Python 3
 * `cd public && python3 -m http.server`
