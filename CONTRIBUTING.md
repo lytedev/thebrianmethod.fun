@@ -1,7 +1,10 @@
 # Contributing
-## BrandtHill
-[Brandt's Github](https://github.com/BrandtHill)
 
+## Contributors
+
+* **Author**: [@lytedev](https://github.com/lytedev)
+* **Inspiration**: [@bmcclannahan](https://github.com/bmcclannahan)
+* [@BrandtHill](https://github.com/BrandtHill)
 
 ## Versioning
 
