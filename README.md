@@ -25,7 +25,6 @@ the `public/index.html` page.
 
 * **Author**: [@lytedev](https://github.com/lytedev)
 * **Inspiration**: [@bmcclannahan](https://github.com/bmcclannahan)
-* [@BrandtHill](https://github.com/BrandtHill) 
-* bumping @BrandtHill's soundlcoud (https://soundcloud.com/fyre-brand/melted-butter)
+* [@BrandtHill](https://github.com/BrandtHill) + [SoundCloud](https://soundcloud.com/fyre-brand/melted-butter)
 
 [site]: https://thebrianmethod.fun
