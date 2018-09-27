@@ -1,5 +1,7 @@
 # Contributing
-BrandtHill
+## BrandtHill
+[Brandt's Github](https://github.com/BrandtHill)
+
 
 ## Versioning
 
